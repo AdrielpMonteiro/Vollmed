@@ -165,7 +165,7 @@ while True:
     print(f"Gemini: {resposta}")
     print("-" * 40)
     salvar_hist(usuario, texto, resposta)
-
+  
 
 
 
